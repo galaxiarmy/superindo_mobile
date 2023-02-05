@@ -1,16 +1,20 @@
-# superindo_mobile
+# Superindo Mobile
 
-A new Flutter project.
+Super Indo Technical
 
-## Getting Started
+This project use Flutter library, can running on Android and IOS
 
-This project is a starting point for a Flutter application.
+Flutter Version : 3.0.5
 
-A few resources to get you started if this is your first Flutter project:
+### `How to running on Android`
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+-open emulator Android / Real Device
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-flutter run / fvm flutter run(spesific flutter version)
+
+### `How to running on IOS `
+
+-open emulator IOS / Real Device
+
+-flutter run / fvm flutter run(spesific flutter version)
+
